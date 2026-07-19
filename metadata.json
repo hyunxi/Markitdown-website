@@ -1,0 +1,6 @@
+{
+  "name": "Document to Markdown Converter",
+  "description": "Convert documents into clean, LLM-optimized Markdown format to save tokens and credits with bulk uploads, previews, and zip exports.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
